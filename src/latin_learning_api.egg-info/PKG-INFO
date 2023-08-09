@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: latin-learning-api
+Version: 0.0.1
+Summary: API to help learn Latin
+Author: Joe Mulhern
+Requires-Python: >=3.8
+Provides-Extra: test
