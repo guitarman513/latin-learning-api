@@ -1,7 +1,0 @@
-fastapi==0.73.0
-uvicorn[standard]
-
-[test]
-pytest
-pytest-cov
-jupyter

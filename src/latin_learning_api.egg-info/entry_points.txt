@@ -1,2 +1,0 @@
-[console_scripts]
-latinapi = latin_api.cli.entrypoint:main
